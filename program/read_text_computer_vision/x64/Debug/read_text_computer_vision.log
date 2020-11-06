@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.h(19,2): warning C4091: "typedef ": zignorowano na lewo od "PointID" podczas gdy brak deklaracji zmiennej
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.h(28,2): warning C4091: "typedef ": zignorowano na lewo od "Segment_Params" podczas gdy brak deklaracji zmiennej
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.h(27,2): warning C4091: "typedef ": zignorowano na lewo od "Point2DID" podczas gdy brak deklaracji zmiennej
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.h(48,2): warning C4091: "typedef ": zignorowano na lewo od "Features" podczas gdy brak deklaracji zmiennej
+  NumbersDetector.cpp
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.h(19,2): warning C4091: "typedef ": zignorowano na lewo od "PointID" podczas gdy brak deklaracji zmiennej
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.h(28,2): warning C4091: "typedef ": zignorowano na lewo od "Segment_Params" podczas gdy brak deklaracji zmiennej
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.h(27,2): warning C4091: "typedef ": zignorowano na lewo od "Point2DID" podczas gdy brak deklaracji zmiennej
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.h(48,2): warning C4091: "typedef ": zignorowano na lewo od "Features" podczas gdy brak deklaracji zmiennej
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.cpp(34,25): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.cpp(35,25): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.cpp(49,25): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.cpp(50,25): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.cpp(98,28): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.cpp(126,22): warning C4305: "=": obcięcie z "__int64" do "int"
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.cpp(126,11): warning C4309: "=": obcięcie stałej wartości
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.cpp(132,23): warning C4305: "=": obcięcie z "__int64" do "int"
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.cpp(132,11): warning C4309: "=": obcięcie stałej wartości
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.cpp(200,44): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\NumbersDetector.cpp(244,44): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  SegmentationAndOrder.cpp
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.h(19,2): warning C4091: "typedef ": zignorowano na lewo od "PointID" podczas gdy brak deklaracji zmiennej
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.h(28,2): warning C4091: "typedef ": zignorowano na lewo od "Segment_Params" podczas gdy brak deklaracji zmiennej
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.cpp(17,45): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.cpp(34,32): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.cpp(119,17): warning C4244: "=": konwersja z "size_t" do "float", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.cpp(122,18): warning C4244: "=": konwersja z "size_t" do "float", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.cpp(123,17): warning C4244: "=": konwersja z "size_t" do "float", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.cpp(129,23): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.cpp(130,23): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.cpp(132,25): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.cpp(198,15): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.cpp(245,52): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.cpp(250,27): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.cpp(283,77): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\read_text_computer_vision\SegmentationAndOrder.cpp(370,39): warning C4305: "argument": obcięcie z "double" do "float"
+  Generowanie kodu...
+  read_text_computer_vision.vcxproj -> C:\Users\Jakub\Desktop\IBM\IBM_task\read_text_computer_vision\x64\Debug\read_text_computer_vision.exe
