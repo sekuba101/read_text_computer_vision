@@ -362,8 +362,9 @@ float NumbersDetector::fill_percent(cv::Mat& input, int x_min, int x_max, int y_
 			}
 			//else
 			//input.at<uchar>(i, j) = 175; 
-		}
 			help_1++;
+		}
+			
 	}
 	output = output / help_1;
 	return output;
